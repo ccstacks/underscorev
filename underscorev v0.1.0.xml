@@ -470,7 +470,7 @@ user is not using shrink to fit then we expand the header.
 
                               "@type": "Blog",
 
-                              "@id": "<data:blog.homepageUrl/>main-container",
+                              "@id": "<data:blog.url/>#main-container",
 
                                	  <b:loop index='index' values='data:posts' var='post'>
 
